@@ -67,7 +67,7 @@ we used google colab to run our yolov5 model to run it with gpu
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* we can use this project to detect the presence Vehicles around our surroundings like car, bus, truck, motorcycle.
+* we can use this project to detect the presence of the Vehicles around our surroundings like car, bus, truck, motorcycle.
 * [google colab](https://colab.research.google.com/drive/1MpbvGzGSQzhuvHm9DkbcvBbCH024u52P?usp=sharing) will be helpful to run the project 
 
 
