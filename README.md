@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-we built a Deadly Automatic attendance detection project with the use of yolov5 by using our custom dataset
+we built a vehicle detection project with the use of yolov5 by using our custom dataset
 
 ### Built With
 
